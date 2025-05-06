@@ -102,7 +102,7 @@
 <body>
 
   <header>
-    <img src="72651BE8-E4D3-4B95-8240-0F45EDB53853.png" alt="Y-Informatique">
+    <img src="recto.png" alt="Y-Informatique">
   </header>
 
   <nav>
@@ -112,7 +112,7 @@
 
   <section id="services">
     <h2>Nos Services</h2>
-    <img src="EB64BB35-E90C-4DB3-ACD9-4FC5ED8EA567.png" alt="Liste des services">
+    <img src="verso.png" alt="Liste des services">
   </section>
 
   <section id="contact">
